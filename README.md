@@ -1,2 +1,9 @@
-# craft
-A testing area for several ideas - c, lua, emacs, git
+# Craft - A development area for crazy ideas
+
+Craft is a development area for random projects involving
+
+- C
+
+- Lua
+
+- Pixel Art
